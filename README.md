@@ -12,4 +12,10 @@ Professionalism, enthusiasm and security are what you deserve. Everyone can get 
 - Continuously provide the tools needed and take the initiative to assist for trader
 - Adhere to professional trading quality and execute all trading orders at extremely competitive prices
 
+# History
+
+## 2016
+
+Star Capital Trading Dept. established the YSI FX online trading platform in 2016 to launch foreign exchange retail business in Hong Kong and Japan.
+
 [www.ysifx.com](https://www.ysifx.com)
