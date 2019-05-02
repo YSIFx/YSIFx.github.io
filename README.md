@@ -8,4 +8,8 @@ We take the customer-centric principle and place client need in company’s top 
 
 Professionalism, enthusiasm and security are what you deserve. Everyone can get what they want in the financial market. It has always been our philosophy to work together with our customers to bring growth and joy.
 
+- Continuous support by providing education and training to customers
+- Continuously provide the tools needed and take the initiative to assist for trader
+- Adhere to professional trading quality and execute all trading orders at extremely competitive prices
+
 [www.ysifx.com](https://www.ysifx.com)
