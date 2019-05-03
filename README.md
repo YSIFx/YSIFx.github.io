@@ -40,6 +40,8 @@ Professionalism, enthusiasm and security are what you deserve. Everyone can get 
 
 Powerful trading platforms Meta Trader 4 (MT4) and tools provide to give you an edge. Our desktop, mobile platforms and MAM are designed for performance and built for all levels of valuable investors.
 
+[MetaQuotes](https://www.metaquotes.net/)
+
 # History
 
 ## 2016
