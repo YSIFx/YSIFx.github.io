@@ -19,3 +19,10 @@ Professionalism, enthusiasm and security are what you deserve. Everyone can get 
 Star Capital Trading Dept. established the YSI FX online trading platform in 2016 to launch foreign exchange retail business in Hong Kong and Japan.
 
 [www.ysifx.com](https://www.ysifx.com)
+
+Social Network
+
+[Facebook](https://www.facebook.com/ysifx)
+[Twitter](https://twitter.com/YSIFx)
+[Linkedin](https://www.linkedin.com/company/ysifx)
+[Pinterest](https://www.pinterest.com/ysifxau)
