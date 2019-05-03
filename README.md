@@ -2,29 +2,7 @@
 
 YSI Fx is a leading online foreign exchange trading platform, focusing on providing investment products such as foreign exchange, precious metals, Contracts For Difference (CFD) and other investment commodities for various retail investment clients and institutional clients, including hedge funds, foreign exchange brokers, and liquidity services in the same industry.
 
-#### Strictly Regulation
-
-Monitored closely and take adherence to regulations very seriously for client protection and voided the risk.
-
-#### Security of Fund
-
-Segregation of client fund; negative balance protection and relationships with Tier 1 international banks.
-
-#### System Innovative
-
-Continually innovating to make the trading experience seamless, intuitive and user-friendly.
-
-#### Trading Technology
-
-Powerful ECN/STP provide an excellent trading conditions, clients can trade directly receive the best possible price from the leading Forex Banks, and without having to use a dealing desk.
-
-#### Featured Platform
-
-Innovative trade Platforms MetaTrader 4 (MT4) contain with powerful and convenient tool for technical analysis and trading in the markets.
-
-#### Dedicated Support Team
-
-The friendly and responsive support team with professional knowledge will help to answer and solve problems that satisfy clients’ demands.
+Dedication to lower the costs with competitive spreads and high-quality trading execution, offering trading platforms to suit all types of traders. Wealth of educational tools and online resources to build your confidence.
 
 # Mission and Vision
 
