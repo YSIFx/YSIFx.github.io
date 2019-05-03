@@ -21,6 +21,16 @@ Powerful trading platforms Meta Trader 4 (MT4) and tools provide to give you an 
 [MetaQuotes](https://www.metaquotes.net)
 [MQL](https://www.mql5.com)
 
+# Policy
+
+[Anti-Money Laundering Policy](https://www.ysifx.com/us/policy/aml)
+
+[Privacy Policy](https://www.ysifx.com/us/policy/privacy)
+
+[Cookie Policy](https://www.ysifx.com/us/policy/cookie)
+
+[Risk Disclosure](https://www.ysifx.com/us/policy/risks)
+
 # History
 
 ## 2016
