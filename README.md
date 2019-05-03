@@ -18,6 +18,10 @@ Professionalism, enthusiasm and security are what you deserve. Everyone can get 
 
 Star Capital Trading Dept. established the YSI FX online trading platform in 2016 to launch foreign exchange retail business in Hong Kong and Japan.
 
+## 2000
+
+YSI Holdings started in 2000, currently operates in 12 countries and under five regulatory regulations, including the Australian Securities and Investments Commission (ASIC) and the British Cayman Islands Monetary Authority (CIMA). As a leading brand in financial services, our primary responsibility is to ensure the security and development of wealth while considering the professional economic needs for each client. We believe this is a prerequisite for a stable and reliable long-term partnership.
+
 [www.ysifx.com](https://www.ysifx.com)
 
 Social Network
