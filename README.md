@@ -2,27 +2,27 @@
 
 YSI Fx is a leading online foreign exchange trading platform, focusing on providing investment products such as foreign exchange, precious metals, Contracts For Difference (CFD) and other investment commodities for various retail investment clients and institutional clients, including hedge funds, foreign exchange brokers, and liquidity services in the same industry.
 
-## Strictly Regulation
+### Strictly Regulation
 
 Monitored closely and take adherence to regulations very seriously for client protection and voided the risk.
 
-## Security of Fund
+### Security of Fund
 
 Segregation of client fund; negative balance protection and relationships with Tier 1 international banks.
 
-## System Innovative
+### System Innovative
 
 Continually innovating to make the trading experience seamless, intuitive and user-friendly.
 
-## Trading Technology
+### Trading Technology
 
 Powerful ECN/STP provide an excellent trading conditions, clients can trade directly receive the best possible price from the leading Forex Banks, and without having to use a dealing desk.
 
-## Featured Platform
+### Featured Platform
 
 Innovative trade Platforms MetaTrader 4 (MT4) contain with powerful and convenient tool for technical analysis and trading in the markets.
 
-## Dedicated Support Team
+### Dedicated Support Team
 
 The friendly and responsive support team with professional knowledge will help to answer and solve problems that satisfy clients’ demands.
 
@@ -35,6 +35,10 @@ Professionalism, enthusiasm and security are what you deserve. Everyone can get 
 - Continuous support by providing education and training to customers
 - Continuously provide the tools needed and take the initiative to assist for trader
 - Adhere to professional trading quality and execute all trading orders at extremely competitive prices
+
+# MetaTrader Platform
+
+Powerful trading platforms Meta Trader 4 (MT4) and tools provide to give you an edge. Our desktop, mobile platforms and MAM are designed for performance and built for all levels of valuable investors.
 
 # History
 
