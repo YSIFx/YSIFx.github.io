@@ -24,13 +24,10 @@ Powerful trading platforms Meta Trader 4 (MT4) and tools provide to give you an 
 
 # Policy
 
-[Anti-Money Laundering Policy](https://www.ysifx.com/us/policy/aml)
-
-[Privacy Policy](https://www.ysifx.com/us/policy/privacy)
-
-[Cookie Policy](https://www.ysifx.com/us/policy/cookie)
-
-[Risk Disclosure](https://www.ysifx.com/us/policy/risks)
+- [Anti-Money Laundering Policy](https://www.ysifx.com/us/policy/aml)
+- [Privacy Policy](https://www.ysifx.com/us/policy/privacy)
+- [Cookie Policy](https://www.ysifx.com/us/policy/cookie)
+- [Risk Disclosure](https://www.ysifx.com/us/policy/risks)
 
 # History
 
@@ -46,9 +43,9 @@ YSI Holdings started in 2000, currently operates in 12 countries and under five 
 
 Social Network
 
-[Facebook](https://www.facebook.com/ysifx)
-[Twitter](https://twitter.com/YSIFx)
-[Linkedin](https://www.linkedin.com/company/ysifx)
-[Pinterest](https://www.pinterest.com/ysifxau)
+- [Facebook](https://www.facebook.com/ysifx)
+- [Twitter](https://twitter.com/YSIFx)
+- [Linkedin](https://www.linkedin.com/company/ysifx)
+- [Pinterest](https://www.pinterest.com/ysifxau)
 
 [Contact Us](https://www.ysifx.com/us/contact/overview)
