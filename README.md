@@ -46,6 +46,7 @@ Social Network
 - [Facebook](https://www.facebook.com/ysifx)
 - [Twitter](https://twitter.com/YSIFx)
 - [Linkedin](https://www.linkedin.com/company/ysifx)
+- [MIX](https://mix.com/ysifx)
 - [Pinterest](https://www.pinterest.com/ysifxau)
 
 [Contact Us](https://www.ysifx.com/us/contact/overview)
