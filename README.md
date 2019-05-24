@@ -49,5 +49,6 @@ Social Network
 - [MIX](https://mix.com/ysifx)
 - [Pinterest](https://www.pinterest.com/ysifxau)
 - [Tumblr](https://ysifx.tumblr.com)
+- [FlipBoard](https://flipboard.com/@ysifx)
 
 [Contact Us](https://www.ysifx.com/us/contact/overview)
